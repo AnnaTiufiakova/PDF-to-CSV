@@ -57,7 +57,7 @@ def extract_transactions(pdf_path, output_csv):
 
 
 # Example path and output path
-pdf_path = "C://Users//annav//Documents//DE/PDF to CSV//Example 1//bank_statement_1.pdf"  # Change this to your PDF file path
+pdf_path = "path//to//bank_statement_1.pdf"  # Change this to your PDF file path
 output_csv = "extracted_transactions.csv"
 extract_transactions(pdf_path, output_csv)
 
