@@ -7,8 +7,8 @@ Open a terminal and navigate to your folder:
 cd /path/to/your/local-folder
 ```
 
-## 2 Install required library 
-Install `pdfplumber` for extracting text from PDFs:
+## 2 Install required libraries 
+Install `pdfplumber` and `pandas` for extracting text from PDFs:
 
 ```
 pip install pdfplumber pandas
